@@ -17,8 +17,7 @@ A full-stack food ordering web application designed to provide a seamless and us
 
 ## 🛠️ Technologies Used
 
-### 🔹 Frontend
-- HTML5 for structuring web pages  
+### 🔹 Frontend 
 - CSS3 for styling and responsive design  
 - JavaScript for dynamic behavior and interactivity  
 
